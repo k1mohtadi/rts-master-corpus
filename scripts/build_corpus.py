@@ -172,6 +172,146 @@ SENTENCE_DECISIONS = [
         "Human_Edited_Version": "در آفریقا، در سال 1985، فقط 14 کشور سیاست خصوصی‌سازی را در دستور کار عمومی داشتند، لیکن تا سال 1990، 40 کشور آفریقایی (90 درصد کشورهای قاره) در حال آماده‌سازی برنامۀ کلانی برای خصوصی‌سازی بودند (Young 1991, 51).",
         "Error_Category": "Orthographic Standardization",
         "Editorial_Rationale": "Standardize spelling of «آفریقا / آفریقایی» with initial «آ» across all entries."
+    },
+    {
+        "ID": "SHMI-INT-01",
+        "Project": "Social Histories of Modern Iran (Stephanie Cronin)",
+        "Chapter_Entry": "Introduction: Subalterns, politics and society in Iran",
+        "English_Sentence": "The history and historiography of Iran, as of the countries of the wider Middle East, have been dominated by the twin narratives of top-down, elite-driven and state-centred modernization, and methodological nationalism... This book seeks to problematize both these state-centred narratives.",
+        "RTS_Version_Invalid": "تاریخ و تاریخ‌نگاری ایران، همچون دیگر کشورهای خاورمیانه، تحت سلطۀ دو روایت قرینه بوده است: مدرنیزاسیون از بالا به پایین و دولت‌محور زیر چترِ نخبگان؛ و ملی‌گراییِ روش‌شناختی... این کتاب می‌کوشد هر دو روایتِ دولت‌محور را مسئله‌مند کند.",
+        "Human_Edited_Version": "تاریخ و تاریخ‌نگاری ایران، همچون دیگر کشورهای خاورمیانۀ بزرگ، تحت سلطۀ دو روایت همزاد بوده است: مدرنیزاسیون از بالا به پایین، نخبگان‌محور و دولت‌محور؛ و ملی‌گراییِ روش‌شناختی... این کتاب می‌کوشد هر دو روایتِ دولت‌محور را مسئله‌دار کند.",
+        "Error_Category": "Natural Persian Idiom vs. Calque",
+        "Editorial_Rationale": "Render «twin narratives» as «دو روایت همزاد» (born together) rather than «قرینه» (symmetrical); pair «elite-driven» as «نخبگان‌محور» alongside «دولت‌محور» instead of the awkward metaphor «زیر چتر نخبگان»; and use natural Persian «مسئله‌دار کند» for «problematize» rather than the artificial coinage «مسئله‌مند کند»."
+    },
+    {
+        "ID": "SHMI-INT-02",
+        "Project": "Social Histories of Modern Iran (Stephanie Cronin)",
+        "Chapter_Entry": "Introduction: Subalterns, politics and society in Iran",
+        "English_Sentence": "Not only is the global context usually absent from analyses of the Iranian experience, but that experience has also itself been neglected by wider scholarship, thus aggravating a persistent Eurocentrism in global, transnational and comparative history.",
+        "RTS_Version_Invalid": "نه‌تنها بستر جهانی معمولاً در تحلیل‌های مربوط به تجربۀ ایران غایب است، بلکه خودِ این تجربه نیز مورد بی‌توجهیِ پژوهش‌های وسیع‌تر قرار گرفته که به نوبۀ خود به اروپامحوریِ دیرپا در تاریخ جهانی، فراملی و تطبیقی دامن زده است.",
+        "Human_Edited_Version": "نه‌تنها بستر جهانی معمولاً در تحلیل‌های مربوط به تجربۀ ایران غایب است، بلکه خودِ این تجربه نیز از چشمِ پژوهش‌های گستردۀ دانشگاهی دور مانده که به‌نوبۀ خود به اروپامحوریِ دیرپا در تاریخ‌های جهانی، فراملی و تطبیقی دامن زده است.",
+        "Error_Category": "Collocation & Register",
+        "Editorial_Rationale": "Replace the bureaucratic passive construction «مورد بی‌توجهی قرار گرفته» with idiomatic, active Persian («از چشمِ پژوهش‌های گستردۀ دانشگاهی دور مانده»)."
+    },
+    {
+        "ID": "SHMI-CH1-01",
+        "Project": "Social Histories of Modern Iran (Stephanie Cronin)",
+        "Chapter_Entry": "Chapter 1: The Iranian Revolution of the 1970s in Global Perspective",
+        "English_Sentence": "The answer it gives is predicated upon the notion that the global context and the character of the historical period is crucial to understanding the national history of Iran, not merely an aspect of that history but profoundly constitutive.",
+        "RTS_Version_Invalid": "پاسخی که این بحث ارائه می‌دهد مبتنی بر این مفهوم است که بستر جهانی و خصلت دورۀ تاریخی نقشی حیاتی در فهم تاریخ ملی ایران دارند و صرفاً جنبه‌ای از آن تاریخ نیست، بلکه به‌طور عمیقی برسازندۀ آن است.",
+        "Human_Edited_Version": "پاسخی که این بحث ارائه می‌دهد مبتنی بر این پنداشت است که بستر جهانی و خصلت دورۀ تاریخی نقشی حیاتی در فهم تاریخ ملی ایران دارند، نه اینکه صرفاً یکی از وجوه آن تاریخ باشد، بلکه جایگاهی عمیقاً تعیین‌کننده و ساختاری دارد.",
+        "Error_Category": "Natural Persian Idiom vs. Calque",
+        "Editorial_Rationale": "Distinguish «notion» («پنداشت / انگاره») from «concept» («مفهوم»), and replace the mechanical translationese calque «به‌طور عمیقی برسازندۀ آن است» («profoundly constitutive») with natural academic Persian («جایگاهی عمیقاً تعیین‌کننده و ساختاری دارد»)."
+    },
+    {
+        "ID": "SHMI-CH1-02",
+        "Project": "Social Histories of Modern Iran (Stephanie Cronin)",
+        "Chapter_Entry": "Chapter 1: The Iranian Revolution of the 1970s in Global Perspective",
+        "English_Sentence": "The bafflement displayed at the time and since that a cleric of advanced years and obscure politics might not only furnish a figurehead for a revolution but also seize and maintain power in the post-revolutionary state has never diminished.",
+        "RTS_Version_Invalid": "سردرگمی و حیرتی که در آن زمان و پس از آن ابراز شد، از اینکه چگونه روحانی‌ای کهنسال با مواضع سیاسی مبهم توانست نه‌تنها به نماد انقلاب بدل شود، بلکه قدرت را در دولت پساانقلابی به دست گیرد و حفظ کند، هرگز فروکش نکرده است.",
+        "Human_Edited_Version": "سردرگمی و حیرتی که در همان ایام و پس از آن ابراز شد، از اینکه چگونه یک روحانی کهنسال با مواضع سیاسی مبهم توانست نه‌تنها نقشی نمادین برای یک انقلاب ایفا کند، بلکه قدرت را در حکومت برآمده از انقلاب به دست گیرد و حفظ کند، هرگز فروکش نکرده است.",
+        "Error_Category": "Collocation & Register",
+        "Editorial_Rationale": "Avoid attaching the indefinite suffix «ـی‌ای» to words ending in a long vowel («روحانی‌ای کهنسال»); use the natural pre-nominal structure «یک روحانی کهنسال» and unpack «post-revolutionary state» as «حکومت برآمده از انقلاب»."
+    },
+    {
+        "ID": "SHMI-CH1-03",
+        "Project": "Social Histories of Modern Iran (Stephanie Cronin)",
+        "Chapter_Entry": "Chapter 1: The Iranian Revolution of the 1970s in Global Perspective",
+        "English_Sentence": "While rejecting any explanatory Iranian exceptionalism, the account here recognizes that the Iranian revolution was an event of quite exceptional magnitude and rarity, overturning the political, social, economic and cultural status quo within the country... The simple listing of Iranian grievances, therefore, cannot explain this apparently inexplicable revolution.",
+        "RTS_Version_Invalid": "روایت حاضر ضمن رد هرگونه استثناگراییِ تبیینی در مورد ایران، اذعان دارد که انقلاب ایران رخدادی با عظمت و نادرستیِ کاملاً استثنایی بود؛ رخدادی که وضع موجود کشور را به لحاظ سیاسی، اجتماعی، اقتصادی و فرهنگی کن فیکون کرد... بنابراین با صرف فهرست کردن گلایه‌های ایرانیان نمی‌توان کلاف ظاهراً لاینحل این انقلاب را توضیح داد.",
+        "Human_Edited_Version": "روایت حاضر ضمن رد هرگونه استثناگراییِ تبیینی در مورد ایران، اذعان دارد که انقلاب ایران رخدادی با عظمت و ندرتِ کاملاً استثنایی بود؛ رخدادی که وضع موجود کشور را به لحاظ سیاسی، اجتماعی، اقتصادی و فرهنگی دگرگون ساخت... از این رو، صِرف فهرست‌کردنِ نارضایتی‌های ایرانیان نمی‌تواند معمای این انقلابِ در ظاهر تبیین‌ناپذیر را توضیح دهد.",
+        "Error_Category": "Collocation & Register",
+        "Editorial_Rationale": "Avoid colloquial or folksy over-idiomatization («کن فیکون کرد», «گلایه‌ها», «کلاف لاینحل») in analytical historiography; use precise academic Persian («دگرگون ساخت», «نارضایتی‌ها», «معمای این انقلابِ در ظاهر تبیین‌ناپذیر»)."
+    },
+    {
+        "ID": "SHMI-CH1-04",
+        "Project": "Social Histories of Modern Iran (Stephanie Cronin)",
+        "Chapter_Entry": "Chapter 1: The Iranian Revolution of the 1970s in Global Perspective",
+        "English_Sentence": "The revolutionary movement that overthrew Muhammad Reza Shah in 1979 was a de facto coalition consisting of a wide variety of political trends: foundational, structural and immediate... Islamic modernists, most notably the Liberation Movement...",
+        "RTS_Version_Invalid": "جنبش انقلابی که در سال ۱۳۵۷ محمدرضاشاه را سرنگون کرد، ائتلافی غیررسمی متشکل از طیف وسیعی از گرایش‌های سیاسی بود... مدرنیست‌های اسلامی، که نهضت آزاد شاخص‌ترین آنها است...",
+        "Human_Edited_Version": "جنبش انقلابی که در سال ۱۳۵۷ (۱۹۷۹) محمدرضاشاه را سرنگون کرد، در عمل (دوفاکتو) ائتلافی از طیف گسترده‌ای از گرایش‌های سیاسی را در بر می‌گرفت... نواندیشان مسلمان که نهضت آزادی شاخص‌ترین آن‌ها بود...",
+        "Error_Category": "Semantic Precision",
+        "Editorial_Rationale": "Render «de facto» accurately as «در عمل (دوفاکتو)» rather than «غیررسمی» («informal»); translate «Islamic modernists» with the established Iranian historiographical term «نواندیشان مسلمان» instead of the calque «مدرنیست‌های اسلامی»; and use the exact proper name «نهضت آزادی»."
+    },
+    {
+        "ID": "SHMI-CH1-05",
+        "Project": "Social Histories of Modern Iran (Stephanie Cronin)",
+        "Chapter_Entry": "Chapter 1: The Iranian Revolution of the 1970s in Global Perspective",
+        "English_Sentence": "...and even in Europe, the organic connection between imperial defeat and revolution at home was strikingly illustrated by the overthrow of the dictatorship in Lisbon in 1974 following the slow but inexorable collapse of Portuguese colonialism in south-west Africa.",
+        "RTS_Version_Invalid": "...و حتی در اروپا نیز پیوند ارگانیک میان شکست امپراتوری در خارج و انقلاب در خانه، با سقوط دیکتاتوری در لیسبون در سال ۱۹۷۴ به شکلی چشمگیر به تصویر کشیده شد.",
+        "Human_Edited_Version": "...حتی در اروپا نیز پیوند ارگانیک میان شکست امپراتوری در ماورای بحار و انقلاب در سرزمین مادری، با سقوط دیکتاتوری لیسبون در سال ۱۹۷۴ (۱۳۵۳) به دنبال فروپاشی تدریجی اما گریزناپذیر استعمارگریِ پرتغال در جنوب غربی آفریقا، جلوه‌ای چشمگیر یافت.",
+        "Error_Category": "Natural Persian Idiom vs. Calque",
+        "Editorial_Rationale": "Eliminate the literal calque «انقلاب در خانه» for «revolution at home» (contrasted against overseas colonial wars), rendering the pair idiomatically as «شکست امپراتوری در ماورای بحار و انقلاب در سرزمین مادری»."
+    },
+    {
+        "ID": "SHMI-CH1-06",
+        "Project": "Social Histories of Modern Iran (Stephanie Cronin)",
+        "Chapter_Entry": "Chapter 1: The Iranian Revolution of the 1970s in Global Perspective",
+        "English_Sentence": "Iran had historically escaped colonialism and direct imperial control and had therefore produced no hegemonic national liberation movement... the monarchy casting itself as an imperial power in its own right...",
+        "RTS_Version_Invalid": "ایران به لحاظ تاریخی از استعمار و کنترل مستقیم امپریالیستی گریخته بود و بنابراین جنبش رهایی‌بخش ملی هرگز در آنجا هژمونیک نشده بود... و نظام سلطنتی نیز که برای خودش جایگاه نوعی از قدرت امپراتوری قائل بود...",
+        "Human_Edited_Version": "ایران به لحاظ تاریخی از استعمار و سیطرۀ مستقیم قدرت‌های امپراتوری برکنار مانده بود، و از این رو، هیچ جنبش آزادی‌بخش ملیِ فراگیری در آن پدید نیامده بود... و نظام سلطنتی نیز علاوه بر آنکه به اعتبار خود مدعی جایگاهی امپراتوری بود...",
+        "Error_Category": "Natural Persian Idiom vs. Calque",
+        "Editorial_Rationale": "Unpack «produced no hegemonic national liberation movement» naturally as «هیچ جنبش آزادی‌بخش ملیِ فراگیری در آن پدید نیامده بود» rather than the awkward calque «جنبش رهایی‌بخش ملی هرگز در آنجا هژمونیک نشده بود», and render «in its own right» as «به اعتبار خود»."
+    },
+    {
+        "ID": "SHMI-CH1-07",
+        "Project": "Social Histories of Modern Iran (Stephanie Cronin)",
+        "Chapter_Entry": "Chapter 1: The Iranian Revolution of the 1970s in Global Perspective",
+        "English_Sentence": "...the metropolitan-colonial symbiosis symbolized by the Vietnamese Tet offensive... Tet was an enormous propaganda victory and was celebrated around the world... the Palestine Liberation Organization (PLO) emerged as a radicalized liberation movement, an umbrella organization...",
+        "RTS_Version_Invalid": "...هم‌زیستی میان قدرت امپراتوری و مستعمره که حملۀ تت در ویتنام نماد آن بود... تت به یک پیروزی تبلیغاتی عظیم تبدیل شد و در سراسر جهان مورد تجلیل قرار گرفت... سازمان آزادی‌بخش فلسطین در قامت یک جنبش رهایی‌بخش رادیکال‌شده سر برآورد؛ یک سازمان مادر که...",
+        "Human_Edited_Version": "...پیوند ارگانیک میان کلان‌شهر استعماری و مستعمره که حملۀ عید تت در ویتنام نماد آن بود... تت به پیروزی تبلیغاتیِ عظیمی بدل شد که در سراسر جهان جشن گرفته شد... سازمان آزادی‌بخش فلسطین (ساف / PLO) در هیئت یک جنبش آزادی‌بخشِ رادیکال‌شده سر برآورد؛ تشکیلاتی چترگون که...",
+        "Error_Category": "Collocation & Register",
+        "Editorial_Rationale": "Translate «metropolitan-colonial symbiosis» precisely as «پیوند ارگانیک میان کلان‌شهر استعماری و مستعمره», replace bureaucratic padding «مورد تجلیل قرار گرفت» with «جشن گرفته شد», and distinguish «umbrella organization» («تشکیلاتی چترگون») from «parent organization» («سازمان مادر»)."
+    },
+    {
+        "ID": "SHMI-CH1-08",
+        "Project": "Social Histories of Modern Iran (Stephanie Cronin)",
+        "Chapter_Entry": "Chapter 1: The Iranian Revolution of the 1970s in Global Perspective",
+        "English_Sentence": "...the Soviet Union put immense pressure on communist parties to curb the radical aspirations and enthusiasms of their members... The Tudeh had found itself, like communist parties elsewhere, obliged to curb the militancy of its own members and to subordinate its own strategy to the needs of its Soviet patron.",
+        "RTS_Version_Invalid": "...اتحاد جماهیر شوروی فشار عظیمی بر احزاب کمونیست وارد آورد تا در راستای یک استراتژی تدافعی، به سرکوب مطالبات و اشتیاق رادیکال اعضای خود بپردازند... حزب توده نیز ناگزیر شد ستیزه‌جویی اعضای خود را مهار کند و استراتژی خود را تابع نیازهای برادر بزرگتر شوروی سازد.",
+        "Human_Edited_Version": "...اتحاد شوروی فشار سنگینی بر احزاب کمونیست وارد آورد تا در راستای یک راهبرد تدافعی، آرمان‌ها و شور انقلابیِ اعضای خود و هوادارانشان را مهار سازند... حزب توده نیز همچون دیگر احزاب کمونیست در سراسر جهان، ناگزیر شد ستیزه‌جوییِ اعضای خود را مهار کند و استراتژی خویش را تابعِ الزامات و خواسته‌های اتحاد شوروی (حامی خارجی خود) سازد.",
+        "Error_Category": "Semantic Precision",
+        "Editorial_Rationale": "Translate «curb» accurately as «مهار ساختن» (restrain) rather than «سرکوب کردن» («suppress/crush»), render «aspirations» as «آرمان‌ها» (not «مطالبات»), and translate «Soviet patron» faithfully as «اتحاد شوروی (حامی خارجی خود)» rather than the journalistic cliché «برادر بزرگتر شوروی»."
+    },
+    {
+        "ID": "SHMI-CH1-09",
+        "Project": "Social Histories of Modern Iran (Stephanie Cronin)",
+        "Chapter_Entry": "Chapter 1: The Iranian Revolution of the 1970s in Global Perspective",
+        "English_Sentence": "Disillusion with the Soviet Union and hostility to Soviet-style parties led naturally to a vogue for Maoism... This strategy had been devised without any reference whatsoever to the actual conditions prevailing inside Iran which, unlike China, possessed neither a radicalized peasantry nor a weak state...",
+        "RTS_Version_Invalid": "سرخوردگی از اتحاد جماهیر شوروی و خصومت با احزابِ به سبک شوروی، به طور طبیعی به رواج و محبوبیت مائوئیسم انجامید... در حالی‌که ایران برخلاف چین نه روستاییان رادیکال‌شده‌ای داشت و نه دولت ضعیف...",
+        "Human_Edited_Version": "سرخوردگی از اتحاد شوروی و خصومت با احزابِ پیرو الگوی شوروی، طبعاً مائوئیسم را باب طبع آن روزگار ساخت... در حالی‌که در ایران، بر خلاف چین، نه دهقانان رادیکال شده بودند و نه حکومت ضعیف بود...",
+        "Error_Category": "Natural Persian Idiom vs. Calque",
+        "Editorial_Rationale": "Use the lively idiomatic Persian «مائوئیسم را باب طبع آن روزگار ساخت» for «led to a vogue for Maoism», convert nominalized English phrases («possessed neither a radicalized peasantry nor a weak state») into natural verbal clauses («نه دهقانان رادیکال شده بودند و نه حکومت ضعیف بود»), and keep «peasantry» («دهقانان») distinct from «villagers» («روستاییان»)."
+    },
+    {
+        "ID": "SHMI-CH1-10",
+        "Project": "Social Histories of Modern Iran (Stephanie Cronin)",
+        "Chapter_Entry": "Chapter 1: The Iranian Revolution of the 1970s in Global Perspective",
+        "English_Sentence": "Foqismo became what Edward Said has called a ‘travelling theory’... the radical Left, which had universally failed to make a significant impact... on the big battalions of the industrial working class... the labouring poor of the shanty towns... which eventually provided the shock troops of the post-revolutionary Islamic republic.",
+        "RTS_Version_Invalid": "فوکیسمو (نظریه کانون) به چیزی تبدیل شد که ادوارد سعید آن را «نظریۀ سیار» نامیده است... چپ رادیکال که در همه جا از تأثیرگذاری چشمگیر بر گردان‌های بزرگ پرولتاریای صنعتی بازمانده بود... اقشار فرودستِ کارگر در سکونت‌گاه‌های غیررسمی... که سرانجام نیروی ضربت جمهوری اسلامیِ پساانقلابی را تأمین کردند.",
+        "Human_Edited_Version": "فوکوئیسم (کانون‌های چریکی) به همان پدیده‌ای بدل شد که ادوارد سعید آن را «نظریۀ جهان‌گرد (سیار)» نامیده است... چپ رادیکال که در همه‌جا از تأثیرگذاری چشمگیر بر صفوف گستردۀ طبقۀ کارگر صنعتی بازمانده بود... فرودستان زحمت‌کشِ حلبی‌آبادها... که سرانجام پیاده‌نظام و نیروهای گوش‌به‌فرمانِ جمهوری اسلامی در دوران پس از انقلاب را فراهم آوردند.",
+        "Error_Category": "Collocation & Register",
+        "Editorial_Rationale": "Standardize «foquismo» as «فوکوئیسم (کانون‌های چریکی)» and Said's «travelling theory» as «نظریۀ جهان‌گرد (سیار)»; replace the literal military calque «گردان‌های بزرگ» («big battalions») with «صفوف گسترده»; reject bureaucratic urban-planning euphemisms («سکونت‌گاه‌های غیررسمی») in favor of «حلبی‌آبادها» («shanty towns») and «فرودستان زحمت‌کش» («labouring poor»); and render political «shock troops» idiomatically as «پیاده‌نظام و نیروهای گوش‌به‌فرمان»."
+    },
+    {
+        "ID": "SHMI-CH1-11",
+        "Project": "Social Histories of Modern Iran (Stephanie Cronin)",
+        "Chapter_Entry": "Chapter 1: The Iranian Revolution of the 1970s in Global Perspective",
+        "English_Sentence": "...as the Left fought a rear-guard action against the rising forces... he himself remaining an enigmatic figure and his concrete political programme opaque.",
+        "RTS_Version_Invalid": "...در شرایطی که جناح چپ دست به عملیات ایذایی در برابر نیروهای در حال عروج می‌زد... در عین حال که خودش شخصیتی مبهم بود و برنامۀ سیاسی انضمامی‌اش نیز مبهم باقی ماند.",
+        "Human_Edited_Version": "...در شرایطی که چپ در برابر نیروهای نوظهور دست به نبرد دفاعی در حال عقب‌نشینی می‌زد... در عین حال که خود چهره‌ای معمایی باقی ماند و برنامۀ سیاسی انضمامی‌اش مبهم باقی ماند.",
+        "Error_Category": "Lexical Anti-Repetition",
+        "Editorial_Rationale": "Translate the military metaphor «fought a rear-guard action» accurately as «دست به نبرد دفاعی در حال عقب‌نشینی می‌زد» (not «عملیات ایذایی» which means diversionary harassment), and differentiate «enigmatic» («معمایی») from «opaque» («مبهم») to prevent adjacent lexical repetition."
+    },
+    {
+        "ID": "SHMI-CH1-12",
+        "Project": "Social Histories of Modern Iran (Stephanie Cronin)",
+        "Chapter_Entry": "Chapter 1: The Iranian Revolution of the 1970s in Global Perspective",
+        "English_Sentence": "...even Carter developing a more decisive hawkishness... Iran after the revolution, however, lacked a honeymoon period of utopian promise... producing most spectacularly the Black Jacobin republic of Haiti...",
+        "RTS_Version_Invalid": "...حتی کارتر در این دوران رویکرد جنگ‌طلبانه‌تری اتخاذ کرد... ایرانِ پس از انقلاب، ماه عسلی از وعده‌های آرمان‌شهری نداشت... و به شکلی تماشایی رژیم انقلابی سیاه‌پوستان یعقوبی هائیتی را پدید آورد...",
+        "Human_Edited_Version": "...حتی در کارتر نیز نوعی ستیزه‌جویی قاطع‌تر جوانه زد... با این حال، ایرانِ پس از انقلاب از دوران شیرینِ تحقق وعده‌های آرمانی بی‌بهره بود... و در چشمگیرترین نمونه، جمهوری ژاکوبن‌های سیاه‌پوست هائیتی را پدید آورد...",
+        "Error_Category": "Semantic Precision",
+        "Editorial_Rationale": "Replace the literal calque «ماه عسلی از وعده‌های آرمان‌شهری نداشت» with natural Persian «از دوران شیرینِ تحقق وعده‌های آرمانی بی‌بهره بود», and correct the historical mistranslation of C.L.R. James's «Black Jacobins» from «سیاه‌پوستان یعقوبی» to «ژاکوبن‌های سیاه‌پوست»."
     }
 ]
 
@@ -351,20 +491,20 @@ UNIVERSAL_GLOSSARY = [
         "English_Term": "Moral Economy",
         "Preferred_Persian": "اقتصاد اخلاقی",
         "Alternative_or_Rejected": "اخلاق اقتصادی",
-        "Used_By_Attribution": "Dr. Saeed Madani & RTS Studio (Entry 901); Persian translations of E.P. Thompson & James C. Scott",
-        "Theoretical_Lineage": "E.P. Thompson, James C. Scott",
+        "Used_By_Attribution": "Dr. Saeed Madani & RTS Studio (Entry 901); Keyvan Mohtadi (Social Histories of Modern Iran - Intro); Persian translations of E.P. Thompson & James C. Scott",
+        "Theoretical_Lineage": "E.P. Thompson (1971), James C. Scott (1976), Stephanie Cronin",
         "Domain": "Social History / Political Sociology",
-        "Usage_Notes": "Popular consensus regarding legitimate subsistence rights and fair prices, whose violation triggers food/austerity riots."
+        "Usage_Notes": "Popular consensus regarding legitimate subsistence rights, fair prices, and customary reciprocity, whose violation triggers food/austerity riots."
     },
     {
         "Term_ID": "GL-019",
         "English_Term": "Subaltern Groups",
         "Preferred_Persian": "گروه‌های فرودست",
         "Alternative_or_Rejected": "گروه‌های مادون / زیردست (آشوری در فرهنگ علوم انسانی: زیردست / زیرباش)",
-        "Used_By_Attribution": "Keyvan Mohtadi (Cognitive Twin Core & RTS Studio, Entry 901); Iranian Critical Theory & Postcolonial Consensus; cf. Dariush Ashouri (فرهنگ علوم انسانی: زیردست)",
-        "Theoretical_Lineage": "Antonio Gramsci, Gayatri Spivak, Ranajit Guha",
-        "Domain": "Critical Theory / Postcolonial Studies / Political Sociology",
-        "Usage_Notes": "«فرودست / گروه‌های فرودست» is the established critical-materialist term in contemporary Persian social theory."
+        "Used_By_Attribution": "Keyvan Mohtadi (Cognitive Twin Core & RTS Studio: Social Histories of Modern Iran - Intro & Ch. 1; Entry 901); Iranian Critical Theory & Postcolonial Consensus; cf. Dariush Ashouri (فرهنگ علوم انسانی: زیردست)",
+        "Theoretical_Lineage": "Antonio Gramsci, Ranajit Guha, Gayatri Spivak, Stephanie Cronin",
+        "Domain": "Critical Theory / Postcolonial Studies / Social History",
+        "Usage_Notes": "«فرودست / گروه‌های فرودست» is the established critical-materialist term in contemporary Persian social theory and subaltern historiography."
     },
     {
         "Term_ID": "GL-020",
@@ -435,6 +575,186 @@ UNIVERSAL_GLOSSARY = [
         "Theoretical_Lineage": "Methodology of Social Sciences",
         "Domain": "Sociology / Methodology",
         "Usage_Notes": "Avoid the pleonastic translationese «عوامل تعیین‌کنندۀ علّی»; «علّت‌های تعیین‌کننده» is direct, natural, and exact."
+    },
+    {
+        "Term_ID": "GL-027",
+        "English_Term": "Methodological Nationalism",
+        "Preferred_Persian": "ملی‌گرایی روش‌شناختی",
+        "Alternative_or_Rejected": "ناسیونالیسم متدولوژیک / قوم‌گرایی روشی",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Intro); Iranian Historical Sociology Consensus",
+        "Theoretical_Lineage": "Andreas Wimmer & Nina Glick Schiller (2002), Ulrich Beck, Stephanie Cronin",
+        "Domain": "Historiography / Historical Sociology",
+        "Usage_Notes": "The epistemic assumption that the nation-state is the natural, self-contained unit of historical and social analysis."
+    },
+    {
+        "Term_ID": "GL-028",
+        "English_Term": "Paternalism / Paternalistic",
+        "Preferred_Persian": "قیم‌مآبی / قیم‌مآبانه",
+        "Alternative_or_Rejected": "پدرسالاری / پدرسالارانه (تداخل با Patriarchy)",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Intro); cf. Dariush Ashouri (فرهنگ علوم انسانی: پدرمنشی / قیم‌مآبی)",
+        "Theoretical_Lineage": "E.P. Thompson, Stephanie Cronin",
+        "Domain": "Social History / Political Theory",
+        "Usage_Notes": "Strictly distinguish «قیم‌مآبی» (Paternalism) from «پدرسالاری» (Patriarchy)."
+    },
+    {
+        "Term_ID": "GL-029",
+        "English_Term": "Bread Riot",
+        "Preferred_Persian": "شورش نان",
+        "Alternative_or_Rejected": "بلوا / آشوب نان / اغتشاش (واژگان جرم‌انگارانۀ بایگانی دولتی)",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Intro); Subaltern Historiography Tradition",
+        "Theoretical_Lineage": "E.P. Thompson, George Rudé, Stephanie Cronin",
+        "Domain": "Social History / Subaltern Studies",
+        "Usage_Notes": "Never translate popular subsistence negotiations as «بلوا» or «اغتشاش» in analytical prose; reserve state-archival pejoratives strictly for direct quotations from police/governor reports."
+    },
+    {
+        "Term_ID": "GL-030",
+        "English_Term": "Social Banditry / Noble Robber",
+        "Preferred_Persian": "راهزنی اجتماعی / راهزن جوانمرد (شریف)",
+        "Alternative_or_Rejected": "دزدی اجتماعی / سارق شریف / اشرار",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Intro); Persian Translations of Eric Hobsbawm (Bandits)",
+        "Theoretical_Lineage": "Eric Hobsbawm (Bandits, 1969), Stephanie Cronin",
+        "Domain": "Social History / Peasant Studies",
+        "Usage_Notes": "Rural outlaws regarded by state authorities as criminals («اشرار / یاغی») but supported by peasant communities as champions of customary justice («عیاران / راهزنان جوانمرد»)."
+    },
+    {
+        "Term_ID": "GL-031",
+        "English_Term": "Dangerous Classes",
+        "Preferred_Persian": "«طبقات خطرناک»",
+        "Alternative_or_Rejected": "طبقات پرخطر",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Intro); Persian Translations of Michel Foucault (Discipline and Punish)",
+        "Theoretical_Lineage": "Honoré Antoine Frégier (1840), Karl Marx, Michel Foucault, Stephanie Cronin",
+        "Domain": "Social History / Critical Criminology",
+        "Usage_Notes": "Always enclose in Persian guillemets («طبقات خطرناک») to mark its status as an elite/bourgeois criminological category applied to the urban poor and floating populations."
+    },
+    {
+        "Term_ID": "GL-032",
+        "English_Term": "Hisba / Muhtasib",
+        "Preferred_Persian": "حسبه / محتسب",
+        "Alternative_or_Rejected": "نظارت اخلاقی / پلیس بازار / مأمور شهرداری",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Intro); Classical Islamic & Iranian Urban History",
+        "Theoretical_Lineage": "Islamic Legal & Urban Historiography, Stephanie Cronin",
+        "Domain": "Social History / Islamic Urban Institutions",
+        "Usage_Notes": "Restore the exact historical Persian/Arabic institutional terms «حسبه» and «محتسب» rather than back-translating English explanatory glosses."
+    },
+    {
+        "Term_ID": "GL-033",
+        "English_Term": "Circle of Justice",
+        "Preferred_Persian": "دایرۀ عدالت",
+        "Alternative_or_Rejected": "چرخۀ عدالت / حلقۀ انصاف",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Intro); Classical Persian Political Literature (سیاست‌نامه‌ها / اندرزنامه‌ها)",
+        "Theoretical_Lineage": "Pre-Modern Irano-Islamic Statecraft, Linda T. Darling, Stephanie Cronin",
+        "Domain": "Political Thought / Historiography",
+        "Usage_Notes": "The classical Perso-Islamic doctrine linking royal authority, military strength, taxation, and peasant prosperity through justice («عدالت»)."
+    },
+    {
+        "Term_ID": "GL-034",
+        "English_Term": "Foquismo (Foco Theory)",
+        "Preferred_Persian": "فوکوئیسم (نظریۀ کانون‌های چریکی)",
+        "Alternative_or_Rejected": "فوکیسمو / تئوری کانون",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Ch. 1); Iranian Left Historiography (Bizhan Jazani / Fadaiyan Literature)",
+        "Theoretical_Lineage": "Che Guevara, Régis Debray (Revolution in the Revolution?, 1967), Stephanie Cronin",
+        "Domain": "Revolutionary Theory / Political History",
+        "Usage_Notes": "Guerrilla vanguard doctrine whereby small armed nuclei («کانون‌های چریکی») act as a detonator («موتور کوچک») to ignite broader popular insurrection."
+    },
+    {
+        "Term_ID": "GL-035",
+        "English_Term": "Travelling Theory",
+        "Preferred_Persian": "نظریۀ جهان‌گرد (نظریۀ سیار)",
+        "Alternative_or_Rejected": "تئوری مسافرتی / نظریۀ مسافر",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Ch. 1); Persian Critical Theory Translations of Edward Said",
+        "Theoretical_Lineage": "Edward W. Said (The World, the Text, and the Critic, 1983), Stephanie Cronin",
+        "Domain": "Critical Theory / Intellectual History",
+        "Usage_Notes": "Said's concept tracing how ideas and revolutionary doctrines circulate across geographical and historical contexts, mutating as they are adopted in new environments."
+    },
+    {
+        "Term_ID": "GL-036",
+        "English_Term": "Islamic Modernists",
+        "Preferred_Persian": "نواندیشان مسلمان (نوگرایان اسلامی)",
+        "Alternative_or_Rejected": "مدرنیست‌های اسلامی (گرته‌برداری مکانیکی)",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Ch. 1); Contemporary Iranian Intellectual History",
+        "Theoretical_Lineage": "Iranian Intellectual & Religious Historiography (Mehdi Bazargan, Ali Shariati, Liberation Movement)",
+        "Domain": "Intellectual History / Political Islam",
+        "Usage_Notes": "Use the established indigenous designation «نواندیشان مسلمان» or «نوگرایان اسلامی» rather than the literal calque «مدرنیست‌های اسلامی»."
+    },
+    {
+        "Term_ID": "GL-037",
+        "English_Term": "Liberation Theology",
+        "Preferred_Persian": "الهیات رهایی‌بخش",
+        "Alternative_or_Rejected": "کلام آزادی‌بخش / الهیات آزادی",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Ch. 1); Established Persian Sociology of Religion",
+        "Theoretical_Lineage": "Gustavo Gutiérrez, Camilo Torres, Leonardo Boff, Stephanie Cronin",
+        "Domain": "Sociology of Religion / Global Sixties & Seventies",
+        "Usage_Notes": "Standard Persian equivalent for Latin American radical Catholic praxis synthesizing Christian theology with Marxist socio-economic critique."
+    },
+    {
+        "Term_ID": "GL-038",
+        "English_Term": "Weapons of the Weak",
+        "Preferred_Persian": "سلاح‌های ضعفا (سلاح‌های فرودستان)",
+        "Alternative_or_Rejected": "ابزارهای ضعیفان",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Intro); Persian Translations of James C. Scott",
+        "Theoretical_Lineage": "James C. Scott (Weapons of the Weak, 1985), Stephanie Cronin",
+        "Domain": "Subaltern Studies / Peasant & Everyday Resistance",
+        "Usage_Notes": "Everyday forms of non-confrontational resistance (foot-dragging, evasion, desertion, pilfering, feigned ignorance) deployed by subaltern groups."
+    },
+    {
+        "Term_ID": "GL-039",
+        "English_Term": "Black Jacobins",
+        "Preferred_Persian": "ژاکوبن‌های سیاه‌پوست",
+        "Alternative_or_Rejected": "سیاه‌پوستان یعقوبی (خطای فاحش تاریخی و ترجمه)",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Ch. 1)",
+        "Theoretical_Lineage": "C.L.R. James (The Black Jacobins, 1938), Toussaint L'Ouverture, Haitian Revolution",
+        "Domain": "Global History / Anticolonial Revolutions",
+        "Usage_Notes": "Refers to the Haitian revolutionaries modeled on the French Revolutionary Jacobins («ژاکوبن‌ها»); never confuse with Middle Eastern Christian Jacobites («یعقوبیان»)."
+    },
+    {
+        "Term_ID": "GL-040",
+        "English_Term": "Long March Through the Institutions",
+        "Preferred_Persian": "«راهپیمایی طولانی از دل نهادها»",
+        "Alternative_or_Rejected": "حرکت طولانی در مؤسسات / راهپیمایی دراز در سازمان‌ها",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Ch. 1); New Left & Gramscian Persian Literature",
+        "Theoretical_Lineage": "Rudi Dutschke (1967), Antonio Gramsci (War of Position), Herbert Marcuse",
+        "Domain": "Political Theory / Global 1968",
+        "Usage_Notes": "Dutschke's 1967 strategic formulation (alluding to Mao's Long March and Gramsci's war of position) for transforming society from within cultural, educational, and civic institutions."
+    },
+    {
+        "Term_ID": "GL-041",
+        "English_Term": "Dearth",
+        "Preferred_Persian": "کمیابی / مضیقه (غلات و ارزاق)",
+        "Alternative_or_Rejected": "قحطی (تداخل با Famine)",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Intro)",
+        "Theoretical_Lineage": "E.P. Thompson, Stephanie Cronin",
+        "Domain": "Social & Economic History",
+        "Usage_Notes": "Keep «کمیابی / مضیقه» (Dearth: scarcity and high prices) strictly distinct from «قحطی» (Famine: catastrophic starvation)."
+    },
+    {
+        "Term_ID": "GL-042",
+        "English_Term": "Acquiescence",
+        "Preferred_Persian": "تمکین (تعلل و تسلیم ظاهری)",
+        "Alternative_or_Rejected": "رضایت (تداخل با Consent)",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Intro)",
+        "Theoretical_Lineage": "Antonio Gramsci, James C. Scott, Stephanie Cronin",
+        "Domain": "Political Sociology / Subaltern Studies",
+        "Usage_Notes": "Passive or reluctant compliance under coercion («تمکین»); never translate as «رضایت», which belongs to Gramscian «Consent»."
+    },
+    {
+        "Term_ID": "GL-043",
+        "English_Term": "Failed States",
+        "Preferred_Persian": "دولت‌های درمانده (فروپاشیده)",
+        "Alternative_or_Rejected": "دولت‌های شکست‌خورده (تداخل با شکست نظامی در جنگ)",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Ch. 1); Iranian International Relations Literature",
+        "Theoretical_Lineage": "International Relations / State-Building Theory",
+        "Domain": "Political Science / International Relations",
+        "Usage_Notes": "Use «دولت‌های درمانده» or «دولت‌های فروپاشیده» rather than the literal calque «دولت‌های شکست‌خورده» (which implies military defeat in war)."
+    },
+    {
+        "Term_ID": "GL-044",
+        "English_Term": "Sui Generis",
+        "Preferred_Persian": "قائم‌به‌ذات / خودویژه (منحصربه‌فرد)",
+        "Alternative_or_Rejected": "تک‌جنس / خاص خود",
+        "Used_By_Attribution": "Keyvan Mohtadi (RTS Studio: Social Histories of Modern Iran - Ch. 1); cf. Dariush Ashouri (فرهنگ علوم انسانی: خودویژه)",
+        "Theoretical_Lineage": "Émile Durkheim, Comparative Historiography, Stephanie Cronin",
+        "Domain": "Sociology / Historiography",
+        "Usage_Notes": "Describes an event or phenomenon treated as constituting a class of its own, irreducible to comparative historical patterns."
     }
 ]
 
@@ -510,6 +830,12 @@ Tracks specific sentences where the RTS draft was judged invalid, mechanical, ca
 Records our preferred Persian translations for core concepts across sociology, political economy, philosophy, and cultural studies—explicitly documenting **who used or coined the term** (whether from reference dictionaries like Dariush Ashouri's *Dictionary of Humanities*, established Persian translators, project translators like Dr. Saeed Madani, or RTS editorial decisions).
 - 📊 **CSV (Excel / Google Sheets / Data Pipeline):** [`universal_glossary.csv`](./universal_glossary.csv)
 - 📖 **Browsable Markdown Table:** [`UNIVERSAL_GLOSSARY.md`](./UNIVERSAL_GLOSSARY.md) *(Currently logging **{num_terms}** core conceptual terms)*
+
+---
+
+## 📚 Projects Currently Logged
+1. **Encyclopedia of Social & Political Movements (Vol. 1)** — Entry 871 (*Food Riots*), Entry 899 (*General Strikes*), Entry 901 (*Global Austerity Protests*), Entry 1009 (*Hunger Strikes*).
+2. **Social Histories of Modern Iran (Stephanie Cronin / تاریخ‌های اجتماعی ایران مدرن)** — *Introduction: Subalterns, politics and society in Iran* & *Chapter 1: The Iranian Revolution of the 1970s in Global Perspective*.
 
 ---
 

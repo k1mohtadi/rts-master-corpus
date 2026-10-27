@@ -12,12 +12,18 @@ Rather than hardcoding static rules into every prompt, this repository accumulat
 ### 1. Contrastive Sentence Decision Log (`English` $\to$ `RTS Invalid` $\to$ `Human Edited`)
 Tracks specific sentences where the RTS draft was judged invalid, mechanical, calqued, or rhythmically flawed, alongside Keyvan Mohtadi's final human edit and the distilled rationale.
 - 📊 **CSV (Excel / Google Sheets / Data Pipeline):** [`sentence_decisions.csv`](./sentence_decisions.csv)
-- 📖 **Browsable Markdown Table:** [`SENTENCE_DECISIONS.md`](./SENTENCE_DECISIONS.md) *(Currently logging **16** verified sentence-level decisions)*
+- 📖 **Browsable Markdown Table:** [`SENTENCE_DECISIONS.md`](./SENTENCE_DECISIONS.md) *(Currently logging **30** verified sentence-level decisions)*
 
 ### 2. Universal Glossary & Attribution Database
 Records our preferred Persian translations for core concepts across sociology, political economy, philosophy, and cultural studies—explicitly documenting **who used or coined the term** (whether from reference dictionaries like Dariush Ashouri's *Dictionary of Humanities*, established Persian translators, project translators like Dr. Saeed Madani, or RTS editorial decisions).
 - 📊 **CSV (Excel / Google Sheets / Data Pipeline):** [`universal_glossary.csv`](./universal_glossary.csv)
-- 📖 **Browsable Markdown Table:** [`UNIVERSAL_GLOSSARY.md`](./UNIVERSAL_GLOSSARY.md) *(Currently logging **26** core conceptual terms)*
+- 📖 **Browsable Markdown Table:** [`UNIVERSAL_GLOSSARY.md`](./UNIVERSAL_GLOSSARY.md) *(Currently logging **44** core conceptual terms)*
+
+---
+
+## 📚 Projects Currently Logged
+1. **Encyclopedia of Social & Political Movements (Vol. 1)** — Entry 871 (*Food Riots*), Entry 899 (*General Strikes*), Entry 901 (*Global Austerity Protests*), Entry 1009 (*Hunger Strikes*).
+2. **Social Histories of Modern Iran (Stephanie Cronin / تاریخ‌های اجتماعی ایران مدرن)** — *Introduction: Subalterns, politics and society in Iran* & *Chapter 1: The Iranian Revolution of the 1970s in Global Perspective*.
 
 ---
 
