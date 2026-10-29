@@ -174,6 +174,86 @@ SENTENCE_DECISIONS = [
         "Editorial_Rationale": "Standardize spelling of «آفریقا / آفریقایی» with initial «آ» across all entries."
     },
     {
+        "ID": "SM-1009-01",
+        "Project": "Encyclopedia of Social & Political Movements (Vol. 2)",
+        "Chapter_Entry": "Entry 1009: Hunger Strikes",
+        "English_Sentence": "British suffragettes and Irish nationalists are the two groups who had the greatest input into introducing hunger strikes within the repertoires of contention in modern nation-states.",
+        "RTS_Version_Invalid": "زنان طرفدار حق رأی در بریتانیا و ناسیونالیست‌های ایرلندی دو گروهی هستند که در آغاز قرن بیستم بیشترین نقش را در وارد کردن اعتصاب غذا به خزانۀ ستیز در دولت‌ملت‌های مدرن داشتند.",
+        "Human_Edited_Version": "زنان طرفدار حق رأی در بریتانیا و ناسیونالیست‌های ایرلندی دو گروهی هستند که در آغاز قرن بیستم بیشترین نقش را در وارد کردن اعتصاب غذا به گنجینۀ ستیز در دولت‌ملت‌های مدرن داشتند.",
+        "Error_Category": "Terminology Standardization",
+        "Editorial_Rationale": "Standardize Charles Tilly's «repertoire of contention» across the Encyclopedia as «گنجینۀ ستیز» (aligning with the project translator's preferred term) rather than «خزانۀ ستیز»."
+    },
+    {
+        "ID": "SM-1009-02",
+        "Project": "Encyclopedia of Social & Political Movements (Vol. 2)",
+        "Chapter_Entry": "Entry 1009: Hunger Strikes",
+        "English_Sentence": "Primary and secondary socialization (whether occupational, religious, political, speaking out loud, etc.) is therefore linked to hunger strikes... Controversy over the reality of a hunger strike shows that the action is also perceived as an ordeal and a test of the authenticity of protesters and their commitment to their cause.",
+        "RTS_Version_Invalid": "بنابراین، جامعه‌پذیری اولیه و ثانویه (از نظر حرفه، دین، سیاست، صراحت لهجه در اعتراض و غیره) با اعتصاب غذا پیوند دارد... مناقشات دربارۀ واقعی بودن اعتصاب غذا نشان می‌دهد که این کنش همچنین آزمونی طاقت‌فرسا و آزمونی برای سنجش اصالت معترضان و تعهدشان به آرمان خود تلقی می‌شود.",
+        "Human_Edited_Version": "بنابراین، جامعه‌پذیری اولیه و ثانویه (از نظر حرفه، دین، سیاست، صراحت بیان در اعتراض و غیره) با اعتصاب غذا پیوند دارد... مناقشات دربارۀ واقعی بودن اعتصاب غذا نشان می‌دهد که این کنش همچنین آزمونی طاقت‌فرسا و محکی برای سنجش اصالت معترضان و تعهدشان به آرمان خود تلقی می‌شود.",
+        "Error_Category": "Lexical Anti-Repetition & Collocation",
+        "Editorial_Rationale": "Use «صراحت بیان در اعتراض» instead of «صراحت لهجه» for «speaking out loud»; differentiate «ordeal and a test» as «آزمونی طاقت‌فرسا و محکی برای سنجش» to avoid repeating «آزمونی ... و آزمونی»."
+    },
+    {
+        "ID": "SM-1037-01",
+        "Project": "Encyclopedia of Social & Political Movements (Vol. 2)",
+        "Chapter_Entry": "Entry 1037: Independentism (Catalonia)",
+        "English_Sentence": "On 1 October 2017, 2.2 million Catalans braved state violence in order to cast their ballots in a referendum organized by the Catalan institutional authorities (see García Agustín 2021; Gunzelmann 2021). Given harsh repression by the Spanish authorities – with lengthy prison sentences for Catalan pro-independence politicians and activists – protests decentrally spilled over the main organizations, with the Committees for the Defence of the Republic taking the lead (della Porta, O'Connor, and Portos 2019).",
+        "RTS_Version_Invalid": "در اول اکتبر 2017، 2/2 میلیون کاتالانی در برابر خشونت دولتی ایستادگی کردند تا آرای خود را در رفراندومی که مقامات رسمی کاتالونیا سازمان‌دهی کرده بودند به صندوق بیندازند... با توجه به سرکوب سنگین از سوی مقامات اسپانیا — و صدور احکام زندان طویل‌المدت برای سیاست‌مداران و فعالان استقلال‌طلب کاتالان — اعتراضات فراتر از سازمان‌های اصلی به شکلی غیرمتمرکز گسترش یافت و «کمیته‌های دفاع از جمهوری» نقش پیشتاز را بر عهده گرفتند.",
+        "Human_Edited_Version": "در اول اکتبر 2017، 2/2 میلیون کاتالانی زیر ضربات خشونت دولتی قرار گرفتند تا آرای خود را در رفراندومی که مقامات رسمی کاتالونیا سازمان‌دهی کرده بودند به صندوق بیندازند... با توجه به سرکوب سنگین از سوی مقامات اسپانیا — و صدور احکام زندان طویل‌المدت برای سیاست‌مداران و فعالان استقلال‌طلب کاتالان — اعتراضات به شکلی غیرمتمرکز از چهارچوب سازمان‌های اصلی فراتر رفت و «کمیته‌های دفاع از جمهوری» نقش پیشتاز را بر عهده گرفتند.",
+        "Error_Category": "Contextual Precision & Idiomatic Syntax",
+        "Editorial_Rationale": "Render «braved state violence in order to cast their ballots» concretely as «زیر ضربات خشونت دولتی قرار گرفتند تا آرای خود را ... به صندوق بیندازند»; restructure «decentrally spilled over the main organizations» naturally as «به شکلی غیرمتمرکز از چهارچوب سازمان‌های اصلی فراتر رفت»."
+    },
+    {
+        "ID": "SM-1037-02",
+        "Project": "Encyclopedia of Social & Political Movements (Vol. 2)",
+        "Chapter_Entry": "Entry 1037: Independentism (Catalonia)",
+        "English_Sentence": "The prospects of consolidating a right-wing backlash in Spanish politics, the pandemic, internal divisions – especially following the Spanish government June 2021 pardons to the nine leaders convicted for their role in the failed independence bid – as well as the need to accommodate substate secessionism into a context of transnational European integration and global neoliberal governance, are just some of the pressing challenges that Catalan independentism faces these days, which cast a shadow over its future.",
+        "RTS_Version_Invalid": "احتمال تثبیت واکنش تند جناح راست در سیاست اسپانیا، همه‌گیری کرونا، اختلافات داخلی — به‌ویژه در پی اقدام دولت اسپانیا در ژوئن 2021 در عفو 9 تن از رهبران محکوم‌شده به خاطر نقش‌شان در تلاش نافرجام برای استقلال — و همچنین ضرورت سازگار کردن جدایی‌طلبی فروملی با بستر هم‌گرایی فراملی اروپایی و حکمرانی نئولیبرال جهانی، تنها برخی از چالش‌های مبرمی هستند که استقلال‌گرایی کاتالونیا این روزها با آن‌ها روبه‌روست و بر آیندۀ آن سایه می‌اندازد.",
+        "Human_Edited_Version": "احتمال تثبیت واکنش تند جناح راست در سیاست اسپانیا، همه‌گیری کرونا، اختلافات داخلی — به‌ویژه در پی اقدام دولت اسپانیا در ژوئن 2021 در عفو 9 تن از رهبران محکوم‌شده به خاطر نقش‌شان در تلاش نافرجام برای استقلال — و همچنین ضرورت سازگار کردن جدایی‌طلبی داخلی با بستر هم‌گرایی فراملی اروپایی و حکمرانی نئولیبرال جهانی، تنها برخی از چالش‌های مبرمی هستند که استقلال‌گرایی کاتالونیا این روزها با آن‌ها روبه‌روست و چشم‌انداز آیندۀ آن را مبهم می‌سازد.",
+        "Error_Category": "Transparent Idiomatic Persian vs. Jargon",
+        "Editorial_Rationale": "Replace the artificial jargon «جدایی‌طلبی فروملی» (substate secessionism, contrasted with transnational European integration) with transparent «جدایی‌طلبی داخلی»; replace the literal metaphor calque «بر آیندۀ آن سایه می‌اندازد» with clear Persian «چشم‌انداز آیندۀ آن را مبهم می‌سازد»."
+    },
+    {
+        "ID": "SM-1051-01",
+        "Project": "Encyclopedia of Social & Political Movements (Vol. 2)",
+        "Chapter_Entry": "Entry 1051: Indigenous Protest in Bolivia Against Evo Morales",
+        "English_Sentence": "The country has the highest percentage of indigenous population in South America – between 60 and 40 percent according to the last censuses – and has been historically characterized by a rich landscape of social movements, including peasants, cocaleros, and indigenous peoples.",
+        "RTS_Version_Invalid": "این کشور بالاترین درصد جمعیت بومیان را در امریکای جنوبی — بین 40 تا 60 درصد بر طبق آخرین سرشماری‌ها — دارد و در طول تاریخ با چشم‌انداز غنی و پررنگی از جنبش‌های اجتماعی، از جمله دهقانان، کشت‌کنندگان کوکا (کوکالروها) و مردمان بومی شناخته شده است.",
+        "Human_Edited_Version": "این کشور بالاترین درصد جمعیت بومیان را در آمریکای جنوبی دارد (بین 40 تا 60 درصد بر طبق آخرین سرشماری‌ها) و در طول تاریخ با چشم‌انداز غنی و پررنگی از جنبش‌های اجتماعی، از جمله دهقانان، کوکاکاران (برگ‌چینان کوکا) و مردمان بومی شناخته شده است.",
+        "Error_Category": "Syntactic Extraposition & Lexical Coinage",
+        "Editorial_Rationale": "Place the verb «دارد» before the parenthetical statistical phrase «(بین 40 تا 60 درصد بر طبق آخرین سرشماری‌ها)» so the verb is not stranded after dashes; render «cocaleros» with the crisp Persian compound «کوکاکاران (برگ‌چینان کوکا)» instead of periphrastic «کشت‌کنندگان کوکا»; standardize «آمریکای جنوبی» with initial «آ»."
+    },
+    {
+        "ID": "SM-1051-02",
+        "Project": "Encyclopedia of Social & Political Movements (Vol. 2)",
+        "Chapter_Entry": "Entry 1051: Indigenous Protest in Bolivia Against Evo Morales",
+        "English_Sentence": "On September 25, police violently repressed the protesters. However, this sparked wide national solidarity for the marchers and harsh criticisms of the government from sectors of civil society and some institutional figures, including the national human rights ombudsman.",
+        "RTS_Version_Invalid": "در 25 سپتامبر، پلیس به شکلی خشونت‌آمیز معترضان را سرکوب کرد. با این حال، این اقدام موجی از همبستگی ملیِ گسترده با راهپیمایان و انتقادهای تند از دولت را از سوی بخش‌هایی از جامعۀ مدنی و برخی چهره‌های نهادی، از جمله آمبودزمان (مدافع) ملی حقوق بشر، برانگیخت.",
+        "Human_Edited_Version": "در 25 سپتامبر، پلیس به شکلی خشونت‌آمیز معترضان را سرکوب کرد. با این حال، این اقدام موجی از همبستگی ملیِ گسترده با راهپیمایان و انتقادهای تند از دولت را از سوی بخش‌هایی از جامعۀ مدنی و برخی چهره‌های نهادی، از جمله بازرس (آمبودزمان) ملی حقوق بشر، برانگیخت.",
+        "Error_Category": "Terminology & Gloss Ordering",
+        "Editorial_Rationale": "For institutional terms like «human rights ombudsman», foreground the transparent Persian equivalent «بازرس» first and place the international loanword «(آمبودزمان)» in parentheses («بازرس (آمبودزمان) ملی حقوق بشر»)."
+    },
+    {
+        "ID": "SM-1051-03",
+        "Project": "Encyclopedia of Social & Political Movements (Vol. 2)",
+        "Chapter_Entry": "Entry 1051: Indigenous Protest in Bolivia Against Evo Morales",
+        "English_Sentence": "Right after, the government passed a legal decree guaranteeing that the road would not pass through the TIPNIS. Some weeks later, however, new conflicts broke out that pitted the indigenous organizations against the social bloc driving the pro-government protests, the coca grower peasants.",
+        "RTS_Version_Invalid": "بلافاصله پس از آن، دولت در 24 اکتبر فرمانی قانونی تصویب کرد که تضمین می‌نمود جاده از تیپنیس نخواهد گذشت. با این حال، چند هفته بعد درگیری‌های جدیدی درگرفت که سازمان‌های بومیان را در برابر دهقانان کشت‌کنندۀ کوکا، یعنی بلوک اجتماعیِ پیش‌برندۀ اعتراضات حامی دولت، قرار داد.",
+        "Human_Edited_Version": "بلافاصله پس از آن، دولت در 24 اکتبر فرمانی قانونی به تصویب رساند که تضمین می‌کرد جاده از تیپنیس نخواهد گذشت. با این حال، چند هفته بعد درگیری‌های جدیدی درگرفت که سازمان‌های بومیان را در برابر کوکاکاران، یعنی بلوک اجتماعیِ پیش‌برندۀ اعتراضات حامی دولت، قرار داد.",
+        "Error_Category": "Register & Anti-Bureaucratic Verb Choice",
+        "Editorial_Rationale": "Eliminate pseudo-literary/bureaucratic auxiliary «تضمین می‌نمود» in favor of natural «تضمین می‌کرد» (paired with «به تصویب رساند»); use the established compound «کوکاکاران» for «coca grower peasants»."
+    },
+    {
+        "ID": "SM-1051-04",
+        "Project": "Encyclopedia of Social & Political Movements (Vol. 2)",
+        "Chapter_Entry": "Entry 1051: Indigenous Protest in Bolivia Against Evo Morales",
+        "English_Sentence": "Rather than being a Manichean fight between pro-development and environmentalist and indigenous sectors, the TIPNIS conflict represents a symptom of the transformation of Bolivian social movements and of their contemporary multiple challenges.",
+        "RTS_Version_Invalid": "منازعۀ تیپنیس، بیش از آنکه نبردی مانوی میان طرفداران توسعه از یک سو و بخش‌های محیط‌زیست‌گرا و بومی از سوی دیگر باشد، نشانه‌ای از دگرگونی جنبش‌های اجتماعی بولیوی و چالش‌های معاصر و چندگانۀ آن‌هاست.",
+        "Human_Edited_Version": "منازعۀ تیپنیس، بیش از آنکه نبردی دوقطبی میان طرفداران توسعه از یک سو و بخش‌های محیط‌زیست‌گرا و بومی از سوی دیگر باشد، نشانه‌ای از دگرگونی جنبش‌های اجتماعی بولیوی و چالش‌های معاصر و چندگانۀ آن‌ها است.",
+        "Error_Category": "Transparent Idiomatic Persian vs. Calque",
+        "Editorial_Rationale": "Replace the opaque philosophical calque «نبردی مانوی» (Manichean fight) with transparent sociological Persian «نبردی دوقطبی» (polar/binary conflict); write uncontracted «آن‌ها است» instead of «آن‌هاست»."
+    },
+    {
         "ID": "SHMI-INT-01",
         "Project": "Social Histories of Modern Iran (Stephanie Cronin)",
         "Chapter_Entry": "Introduction: Subalterns, politics and society in Iran",
@@ -329,9 +409,9 @@ UNIVERSAL_GLOSSARY = [
     {
         "Term_ID": "GL-002",
         "English_Term": "Repertoire of Contention",
-        "Preferred_Persian": "خزانۀ ستیز / گنجینۀ ستیز (رپرتوار ستیز)",
+        "Preferred_Persian": "گنجینۀ ستیز (خزانۀ ستیز / رپرتوار ستیز)",
         "Alternative_or_Rejected": "فهرست منازعه / جعبه ابزار اعتراض (آشوری برای repertoire: انبانۀ برنامه / کار-انبان)",
-        "Used_By_Attribution": "Dr. Saeed Madani & RTS Studio (Entries 899, 1009); Persian translations of Charles Tilly; cf. Dariush Ashouri (فرهنگ علوم انسانی: انبانه / رپرتوار)",
+        "Used_By_Attribution": "Keyvan Mohtadi & Dr. Saeed Madani (Entries 899, 1009, 1037: «گنجینۀ ستیز» standardized across Encyclopedia); Persian translations of Charles Tilly; cf. Dariush Ashouri (فرهنگ علوم انسانی: انبانه / رپرتوار)",
         "Theoretical_Lineage": "Charles Tilly",
         "Domain": "Social Movements",
         "Usage_Notes": "Historically learned and culturally shared set of protest routines (strikes, petitions, barricades, hunger strikes) available to collective actors."
@@ -755,6 +835,76 @@ UNIVERSAL_GLOSSARY = [
         "Theoretical_Lineage": "Émile Durkheim, Comparative Historiography, Stephanie Cronin",
         "Domain": "Sociology / Historiography",
         "Usage_Notes": "Describes an event or phenomenon treated as constituting a class of its own, irreducible to comparative historical patterns."
+    },
+    {
+        "Term_ID": "GL-045",
+        "English_Term": "Substate Secessionism",
+        "Preferred_Persian": "جدایی‌طلبی داخلی (جدایی‌طلبی فروملی)",
+        "Alternative_or_Rejected": "جدایی‌طلبی زیرحکومتی / جدایی‌طلبی ایالتی",
+        "Used_By_Attribution": "Keyvan Mohtadi Human Edit (Entry 1037: Independentism in Catalonia)",
+        "Theoretical_Lineage": "Martín Portos, Donatella della Porta, Michael Keating",
+        "Domain": "Political Sociology / Nationalism Studies",
+        "Usage_Notes": "When contrasted with transnational integration (e.g., EU), prefer transparent «جدایی‌طلبی داخلی» over synthetic jargon «فروملی»."
+    },
+    {
+        "Term_ID": "GL-046",
+        "English_Term": "Referendums from Below",
+        "Preferred_Persian": "«همه‌پرسی‌های از پایین»",
+        "Alternative_or_Rejected": "رفراندوم‌های مردمی / همه‌پرسی‌های ریشه‌ای",
+        "Used_By_Attribution": "RTS Studio (Entry 1037: Independentism in Catalonia)",
+        "Theoretical_Lineage": "Donatella della Porta, Francis O'Connor, Martín Portos (2017)",
+        "Domain": "Social Movements / Direct Democracy",
+        "Usage_Notes": "Grassroots, participatory, and often non-binding independence or democratic consultations organized by civil society in interaction with local institutions."
+    },
+    {
+        "Term_ID": "GL-047",
+        "English_Term": "Self-Determination vs. Autonomy",
+        "Preferred_Persian": "تعیین سرنوشت (حق تعیین سرنوشت) در برابر خودمختاری",
+        "Alternative_or_Rejected": "خودمختاری (خلط مفهومی برای self-determination)",
+        "Used_By_Attribution": "RTS Studio (Entries 1037, 1051)",
+        "Theoretical_Lineage": "International Law / Theories of Secession & Plurinationalism",
+        "Domain": "Political Science / Nationalist & Indigenous Movements",
+        "Usage_Notes": "Strictly distinguish «تعیین سرنوشت» (self-determination) from «خودمختاری» (autonomy within an existing state)."
+    },
+    {
+        "Term_ID": "GL-048",
+        "English_Term": "Cocaleros (Coca Grower Peasants)",
+        "Preferred_Persian": "کوکاکاران (برگ‌چینان کوکا)",
+        "Alternative_or_Rejected": "کشت‌کنندگان کوکا / دهقانان پرورش‌دهندۀ کوکا",
+        "Used_By_Attribution": "Keyvan Mohtadi Human Edit (Entry 1051: Indigenous Protest in Bolivia)",
+        "Theoretical_Lineage": "Andean Peasant & Indigenous Studies, Lorenza B. Fontana, Silvia Rivera Cusicanqui",
+        "Domain": "Latin American Social Movements / Peasant Studies",
+        "Usage_Notes": "Crisp Persian compound («کوکاکاران»، on analogy with چایکاران/پنبه‌کاران) with explanatory gloss «(برگ‌چینان کوکا)» on first mention."
+    },
+    {
+        "Term_ID": "GL-049",
+        "English_Term": "Human Rights Ombudsman",
+        "Preferred_Persian": "بازرس (آمبودزمان) حقوق بشر",
+        "Alternative_or_Rejected": "آمبودزمان حقوق بشر / مدافع حقوق بشر",
+        "Used_By_Attribution": "Keyvan Mohtadi Human Edit (Entry 1051: Indigenous Protest in Bolivia)",
+        "Theoretical_Lineage": "Public Law / Human Rights Institutions (Defensor del Pueblo)",
+        "Domain": "Public Law / Human Rights",
+        "Usage_Notes": "Foreground the transparent Persian term «بازرس» first and place the international loanword «(آمبودزمان)» in parentheses."
+    },
+    {
+        "Term_ID": "GL-050",
+        "English_Term": "Manichean Fight / Divide",
+        "Preferred_Persian": "نبرد دوقطبی / تقابل دوقطبی",
+        "Alternative_or_Rejected": "نبرد مانوی / دعوای مانوی (ایهام و ثقالت در متون جامعه‌شناختی)",
+        "Used_By_Attribution": "Keyvan Mohtadi Human Edit (Entry 1051: Indigenous Protest in Bolivia)",
+        "Theoretical_Lineage": "Political Sociology",
+        "Domain": "Sociology / Discourse Analysis",
+        "Usage_Notes": "In empirical sociological prose, render metaphorical «Manichean fight/divide» transparently as «نبرد دوقطبی / تقابل دوقطبی» rather than literal «مانوی»."
+    },
+    {
+        "Term_ID": "GL-051",
+        "English_Term": "Plurinational State",
+        "Preferred_Persian": "دولت چندملیتی",
+        "Alternative_or_Rejected": "دولت کثرت‌گرای ملی / حکومت چندملتی",
+        "Used_By_Attribution": "RTS Studio (Entry 1051: Indigenous Protest in Bolivia)",
+        "Theoretical_Lineage": "Andean Constitutionalism (Bolivia 2009 & Ecuador 2008 Constitutions), Álvaro García Linera, Boaventura de Sousa Santos",
+        "Domain": "Political Sociology / Indigenous Politics",
+        "Usage_Notes": "Constitutional recognition of multiple indigenous nations and self-governing autonomies within a single state framework (Estado Plurinacional)."
     }
 ]
 
@@ -834,7 +984,7 @@ Records our preferred Persian translations for core concepts across sociology, p
 ---
 
 ## 📚 Projects Currently Logged
-1. **Encyclopedia of Social & Political Movements (Vol. 1)** — Entry 871 (*Food Riots*), Entry 899 (*General Strikes*), Entry 901 (*Global Austerity Protests*), Entry 1009 (*Hunger Strikes*).
+1. **Encyclopedia of Social & Political Movements (Vols. 1–2)** — Entry 871 (*Food Riots*), Entry 899 (*Gezi Park Protests (Istanbul)*), Entry 901 (*Global Austerity Protests*), Entry 1009 (*Hunger Strikes*), Entry 1037 (*Independentism (Catalonia)*), Entry 1051 (*Indigenous Protest in Bolivia Against Evo Morales*).
 2. **Social Histories of Modern Iran (Stephanie Cronin / تاریخ‌های اجتماعی ایران مدرن)** — *Introduction: Subalterns, politics and society in Iran* & *Chapter 1: The Iranian Revolution of the 1970s in Global Perspective*.
 
 ---
